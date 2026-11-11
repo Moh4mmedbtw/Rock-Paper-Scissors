@@ -98,5 +98,5 @@
    
   function update(){
      document.querySelector('.js-score').innerHTML= 
-      'Wins: '+score.wins+' Loses: '+score.loses+' Draws: '+score.draws;
+      'Wins: '+score.wins+' Losses: '+score.loses+' Draws: '+score.draws;
   }
